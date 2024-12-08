@@ -30,7 +30,7 @@
     "contributors": [],
     "repository": {
         "type": "git",
-        "url": "git@github.com:environment-safe/cannon.git"
+        "url": "git+ssh://git@github.com/environment-safe/cannon.git"
     },
     "bugs": {
         "url": "https://github.com/environment-safe/cannon/issues"
